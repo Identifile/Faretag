@@ -1,0 +1,5 @@
+
+session open
+string hash ( string $algo , string $data [, bool $raw_output = false ] )
+
+string hash ( sha256, [article], TRUE)
