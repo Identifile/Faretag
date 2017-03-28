@@ -5,4 +5,4 @@ I also want the website to check and make sure the quote on my website is the sa
 
 
 
-This is not part of identifile; it is a project I'm doing to learn hashing.
+Note: This is not part of identifile; it is a project I'm doing to learn hashing.
